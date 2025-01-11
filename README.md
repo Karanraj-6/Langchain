@@ -143,10 +143,6 @@ A: Yes! Contributions are welcome. Please open an issue or submit a pull request
 **Q: Where can I find more information about LangChain?**  
 A: Check out the official LangChain documentation and join the Skool community for additional resources and support.
 
-## Support
-
-If you encounter any issues or have questions, feel free to open an issue on GitHub or ask for help in the Skool community.
-
 ## License
 
 This project is licensed under the MIT License.
